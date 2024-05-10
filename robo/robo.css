@@ -1,0 +1,209 @@
+.container {
+
+position: absolute;
+
+}
+
+
+.cabeca{
+
+    width: 200px;
+    height: 200px;
+    clip-path: ellipse(27% 40% at 50% 50%);
+    background-color: rgba(136, 133, 133, 0.726);
+    margin-left: 600px;
+    margin-top: 250px;
+    position: absolute;
+    border-radius: 50px;
+    rotate: 90deg;
+    
+}
+
+.olho1 {
+
+    height: 20px;
+    width: 20px;
+    clip-path: circle(50% at 50% 50%);
+    background-color: whitesmoke;
+    margin-left: 75px;
+    margin-top: 125px;
+    position: absolute;
+    border-radius: 50px;
+    
+}
+
+.olho2 {
+
+    height: 20px;
+    width: 20px;
+    clip-path: circle(50% at 50% 50%);
+    background-color: whitesmoke;
+    margin-left: 75px;
+    margin-top: 50px;
+    position: absolute;
+    border-radius: 50px;
+    
+}
+
+.boca {
+
+    height: 30px;
+    width: 30px;
+    clip-path: polygon(100% 0%, 89% 51%, 100% 100%, 49% 100%, 26% 51%, 48% 1%);
+    background-color: whitesmoke;
+    margin-top: 85px;
+    margin-left: 110px;
+    position: absolute;
+    rotate: s0deg;
+    border-radius: 50px;
+    
+}
+
+ .tronco {
+
+    height: 200px;
+    width: 175px;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+    background-color: rgb(136, 133, 133);
+    margin-top: 400px;
+    margin-left: 612px;
+    border-radius: 30px;
+    position: absolute;
+
+ }  
+
+ .braco1 {
+ 
+  height: 180px;
+  width: 175px;
+  clip-path: polygon(0 0, 26% 0, 14% 100%, 0% 100%);
+  background-color: rgba(136, 133, 133, 0.979);
+  margin-left: 585px;
+  margin-top: 430px;
+  position: absolute;
+  rotate: 30deg;
+
+ }
+
+ .braco2 {
+ 
+    height: 180px;
+    width: 175px;
+    clip-path: polygon(0 0, 26% 0, 14% 100%, 0% 100%);
+    background-color: rgba(136, 133, 133, 0.986);
+    margin-left: 757px;
+    margin-top: 365px;
+    position: absolute;
+    rotate: -30deg;
+ 
+   }
+    
+   .mao1 {
+
+    height: 50px;
+    width: 50px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    background-color: rgb(94, 92, 92);
+    margin-left: 805px;
+    margin-top: 565px;
+    position: absolute;
+    rotate: -200deg;
+ 
+   }
+     .mao2 {
+        
+     height: 50px;
+    width: 50px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    background-color: rgb(94, 92, 92);
+    margin-left: 527px;
+    margin-top: 555px;
+    position: absolute;
+    rotate: 210deg;
+ 
+
+
+
+     }
+
+   .perna {
+
+   height: 150px;
+   width: 170px;
+   clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+   background-color: brown;
+   rotate: 180deg;
+   border-radius: 50px;
+   margin-left: 615px;
+   margin-top: 510px;
+   border-radius: 50px;
+   position: absolute;
+   }
+
+    .roda1 {
+
+    height: 150px;
+    width: 150px;
+    background-color: rgba(0, 0, 0, 0.863);
+    clip-path: circle(50% at 50% 50%);
+    margin-top: 610px;
+    margin-left: 630px;
+   position: absolute;
+
+    }
+
+    .roda2{
+
+        height: 110px;
+        width: 110px;
+        background-color: rgba(148, 146, 146, 0.863);
+        clip-path: circle(50% at 50% 50%);
+        margin-top: 630px;
+        margin-left: 650px;
+       position: absolute;
+
+
+    }
+     
+     .roda3 {
+
+        height: 110px;
+        width: 110px;
+        background-color: rgba(255, 255, 255, 0.863);
+        clip-path: polygon(50% 0%, 52% 47%, 98% 35%, 50% 53%, 79% 91%, 47% 55%, 21% 91%, 44% 52%, 2% 35%, 43% 47%);
+        margin-top: 630px;
+        margin-left: 650px;
+       position: absolute;
+
+
+     }
+
+
+    .alca1 {
+  
+        height: 180px;
+        width: 175px;
+        clip-path: polygon(0 0, 26% 0, 14% 100%, 0% 100%);
+        background-color: brown;
+        margin-left: 25px;
+        margin-top: -15px;
+        position: absolute;
+        rotate: -10deg;
+  
+ 
+    }
+
+    .alca2 {
+     
+        height: 180px;
+        width: 175px;
+        clip-path: polygon(0 0, 26% 0, 14% 100%, 0% 100%);
+        background-color: brown;
+        margin-left: 115px;
+        margin-top: -15px;
+        position: absolute;
+        rotate: deg;
+    
+
+
+    }

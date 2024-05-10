@@ -1,0 +1,230 @@
+
+header{
+
+background-color: rgba(255, 166, 0, 0.808);
+width: 2000px;
+height: 70px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: -20px;
+margin-left: -20px;
+}
+
+header h1{
+
+font-family:cursive;
+color: whitesmoke;
+
+}
+
+.container {
+
+display: flex;
+justify-content: space-around;
+
+
+}
+
+/* Carro */
+.carro {
+
+margin-top: 100px;
+
+
+}
+
+.carro img{
+
+height: 350px;
+width: 350px;
+border-style: solid;
+border-width: 2px;
+border-radius: 15px;
+
+}
+
+.carro p {
+
+font-family:cursive;
+color: white;
+font-size: larger;
+}
+
+.carro a {
+
+display: flex;
+align-items: center;
+background-color: orange;
+width: 100px;
+height: 40px;
+padding-left: 50px;
+border-style: solid;
+border-radius: 10px;
+margin-left: 80px;
+text-decoration: none;
+
+}
+/* Gráfico */
+.grafico {
+
+    margin-top: 100px;
+    
+    
+    }
+    
+    .grafico img{
+    
+    height: 350px;
+    width: 350px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    
+    }
+    
+    .grafico p {
+    
+    font-family:cursive;
+    color: white;
+    font-size: larger;
+    }
+    
+    .grafico a {
+    
+    display: flex;
+    align-items: center;
+    background-color: orange;
+    width: 110px;
+    height: 40px;
+    padding-left: 50px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: 90px;
+    text-decoration: none;
+    
+    }
+
+    /* Robô */
+    .robo {
+
+        margin-top: 100px;
+        
+        
+        }
+        
+        .robo img{
+        
+        height: 350px;
+        width: 350px;
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 15px;
+        
+        }
+        
+        .robo p {
+        
+        font-family:cursive;
+        color: white;
+        font-size: larger;
+        }
+        
+        .robo a {
+        
+        display: flex;
+        align-items: center;
+        background-color: orange;
+        width: 90px;
+        height: 40px;
+        padding-left: 50px;
+        border-style: solid;
+        border-radius: 10px;
+        margin-left: 100px;
+        text-decoration: none;
+        
+        }
+     /* Estilizado site */
+        .estilizacao {
+
+            margin-top: 100px;
+            
+            
+            }
+            
+            .estilizacao img{
+            
+            height: 350px;
+            width: 350px;
+            border-style: solid;
+            border-width: 2px;
+            border-radius: 15px;
+            
+            }
+            
+            .estilizacao p {
+            
+            font-family:cursive;
+            color: white;
+            font-size: larger;
+            }
+            
+            .estilizacao a {
+            
+            display: flex;
+            align-items: center;
+            background-color: orange;
+            width: 120px;
+            height: 40px;
+            padding-left: 40px;
+            border-style: solid;
+            border-radius: 10px;
+            margin-left: 90px;
+            text-decoration: none;
+            
+            }
+
+            /* Interface de Música */
+            .interface {
+
+                margin-top: 100px;
+                
+                
+                }
+                
+                .interface img{
+                
+                height: 350px;
+                width: 350px;
+                border-style: solid;
+                border-width: 2px;
+                border-radius: 15px;
+                
+                }
+                
+                .interface p {
+                
+                font-family:cursive;
+                color: white;
+                font-size: larger;
+                text-align:start;
+                }
+                
+                .interface a {
+                
+                display: flex;
+                align-items: center;
+                background-color: orange;
+                width: 180px;
+                height: 50px;
+                padding-left: 80px;
+                border-style: solid;
+                border-radius: 10px;
+                margin-left: 40px;
+                text-decoration: none;
+                
+                }
+    
+        
+
+    

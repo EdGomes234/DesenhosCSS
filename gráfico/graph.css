@@ -1,0 +1,100 @@
+.container{
+
+width: 660px;
+height: 580px;
+background: linear-gradient(#186ddd, #f35e5e);
+border-radius: 10px;
+margin-top: 40px;
+
+}
+
+.base {
+
+border-left: solid ;
+border-bottom: solid;
+width: 600px;
+height: 535px;
+margin-left: 40px;
+margin-top: -540px;
+}
+
+.num {
+
+display: flex;
+flex-direction: column-reverse;
+margin-left: 20px;
+margin-bottom: -20px;
+}
+
+.meses {
+
+display: flex;
+justify-content: space-around;
+margin-top: -10px;
+margin-left: -10px ;
+}
+
+.bloc1 {
+
+  width: 60px;
+  height: 80px;
+border-top: solid;
+border-left: solid;
+border-right: solid;
+background-color: aqua;
+margin-top: 452px;
+}
+
+.bloc2 {
+
+  width: 60px;
+  height: 210px;
+border-top: solid;
+border-left: solid;
+border-right: solid;
+background-color: rgb(0, 132, 255);
+margin-top: 322px;
+}
+
+.bloc3 {
+
+  width: 60px;
+  height: 320px;
+border-top: solid;
+border-left: solid;
+border-right: solid;
+background-color: rgb(0, 38, 255);
+margin-top: 212px;
+margin-left: 20px;
+}
+
+.bloc4 {
+
+  width: 60px;
+  height: 405px;
+border-top: solid;
+border-left: solid;
+border-right: solid;
+background-color: rgb(76, 0, 255);
+margin-top: 127px;
+margin-right: -35px;
+}
+
+.base {
+
+display: flex;
+justify-content: space-around;
+margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

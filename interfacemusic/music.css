@@ -1,0 +1,172 @@
+.container{
+
+    width: 500px; 
+    margin-left: 800px;
+    margin-top: 300px;
+    
+
+}
+
+
+.base {
+
+    width: 300px;
+    height: 450px;
+    background-color: rgb(76, 0, 255) ; 
+    background-image: linear-gradient(to right ,rgba(68, 0, 255, 0.836) , rgba(255, 0, 0, 0.63) );
+    border-radius: 5px;
+    border-style: solid;
+    
+
+}
+
+.base img{
+
+width: 250px;
+height: 250px;
+margin-top: 48px;
+margin-left: 28px;
+border-radius: 5px;
+border-style: solid;
+border-width: 1px;
+
+
+}
+
+hr{
+
+    border-color: black;
+    border-style: solid;
+    width: 230px ;
+    margin-left: 35px;
+}
+
+
+.button{
+
+    width: 0;
+    height: 0;
+
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 30px solid black ;
+    transform: rotate(90deg);
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.buttonl {
+    width: 0;
+    height: 0;
+
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 30px solid black ;
+    transform: rotate(270deg);
+    margin-top: -40px;
+    margin-left: 35px;
+}
+
+.buttonl2{
+
+    width: 0;
+    height: 0;
+
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 30px solid black ;
+    transform: rotate(270deg);
+    margin-top: -30px;
+    margin-left: 50px;
+}
+.buttonr{
+    width: 0;
+    height: 0;
+
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 30px solid black ;
+    transform: rotate(90deg);
+    margin-top: -30px;
+    margin-left: 250px;
+}
+
+.buttonr2{
+
+    width: 0;
+    height: 0;
+
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 30px solid black ;
+    transform: rotate(90deg);
+    margin-left: 235px;
+    margin-top: -30px;
+
+
+}
+
+.bola{
+
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%; 
+    border-color: black;
+    border-style: solid ;
+    border-width: 2px;
+    margin-left: 125px;
+   
+
+}
+
+.pt2 {
+
+margin-top: 15px;
+
+
+}
+
+.line {
+
+    width: 220px;
+    height: 5px;
+    background-color: whitesmoke; 
+    border: 2px solid #000000; 
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.bolin{
+    
+    width: 15px;
+    height: 15px;
+    background-color: rgb(29, 104, 202);
+    border-radius: 50%; 
+    border: 2px solid black;
+    margin-left: 125px;
+    margin-top: -15px;
+
+
+}
+
+.pt1 {
+
+margin-top: -33px;
+
+}
+
+p{
+
+    margin-left: 137px;
+    margin-top: -1px;
+}
+body{
+
+background-color: rgb(45, 5, 138);
+
+
+}
